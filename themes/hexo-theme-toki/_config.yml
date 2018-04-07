@@ -1,0 +1,32 @@
+Menu:
+  Home: /
+  Archives: /archives/
+  About: /about/
+  Category: /categories/
+  Tag: /tags/
+  Github: https://github.com/Shmily3553/
+  Search: true
+  
+Site:
+  Motto: ZHI 
+
+Intro:
+  Avastar: img/avastar.jpeg
+  Name: ZHI
+  Brief:
+  SNS: 
+    Weibo:  
+    StackOverflow: 
+    Github: https://github.com/Shmily3553/
+    Pinterest: 
+    Quora: 
+
+Tip:
+  Alipay:
+  Wechat:
+
+Comment:
+  Id:
+  Secret:
+  Repo:
+  Owner:
