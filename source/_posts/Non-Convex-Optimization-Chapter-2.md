@@ -15,6 +15,8 @@ mathjax: true
 
 A set that is closed under arbitrary convex combinations is a convex set. Geometrically speaking, convex sets are those that contain all line segments that join two points inside the set. As a result, they cannot have any inward "bulges".
 
+<!--more-->
+
 **Definition 2.2** (*Convex Set*) A set $C\in R^P$ is considered convex if for every $x, y \in C$ and $\lambda \in [0,1]$, we have $(1 - \lambda)\cdot x +\lambda \cdot y \in C$ as well.
 
 This defines the threshold of variable value.
